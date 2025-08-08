@@ -1,5 +1,5 @@
 import pytest
-from validador import Validador
+from Validador.validador import Validador
 
 @pytest.fixture
 def validador():
